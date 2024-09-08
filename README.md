@@ -1,3 +1,4 @@
+![logo](https://github.com/Pratik167/Pratik167/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Pratik Man Shrestha</h1>
 <h3 align="center">"Student | Eager Learner | Building My Coding Journey"</h3>
 
