@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratik167&label=Profile%20views&color=0e75b6&style=flat" alt="pratik167" /> </p>
 
-- 🌱 I’m currently learning **Blender, Photoshop**
+- 🌱 I’m currently learning **JS, Figma**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pratik167?tab=repositories](https://github.com/Pratik167?tab=repositories)
 
