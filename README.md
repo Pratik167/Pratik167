@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **pratikshrestha811@gmail.com**
 
-- ⚡ Fun fact **Gaming is Fun 🎮🕹️**
+- ⚡ Fun fact **It is what it is 🤷‍♂️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
