@@ -19,6 +19,7 @@
 <a href="https://instagram.com/pratikman.shrestha.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pratikman.shrestha.7" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@Feint167/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="feint" height="30" width="40" /></a>
 <a href="https://discord.gg/feint3070" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="feint3070" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pratik-shrestha-2926993a6/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" alt="Pratik Shrestha" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
